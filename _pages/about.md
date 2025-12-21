@@ -16,7 +16,7 @@ I possess a strong curiosity and a commitment to investigating novel scientific 
 
 Contact
 ---
-Feel free to reach out to me at lsantiag [at] proton [dot] me or leonardo [dot] santiag [at] etu [dot] ec-lyon [dot] fr or even at l201292 [at] dac [dot] unicamp [dot] br.
+Feel free to reach out to me at lsantiag [at] proton [dot] me or at leonardo [dot] santiag [at] etu [dot] ec-lyon [dot] fr or even at l201292 [at] dac [dot] unicamp [dot] br.
 
 News
 ------
