@@ -9,6 +9,6 @@ redirect_from:
 
 Education
 ======
-* <img src="Images/yale.png" alt="Yale" width="20" height="20"> **Yale University** (2023 - 2023)
-* <img src="Images/telecomparis.png" alt="Telecom Paris" width="20" height="20"> **Telecom Paris** (2021 – 2023)
-* <img src="Images/unicamp.png" alt="UNICAMP" width="20" height="20"> **State University of Campinas (UNICAMP)** (2018 – 2021)
+* <img src="/images/brown.png" alt="Brown" width="20" height="20"> **Brown University** (2024)
+* <img src="Images/ecl.png" alt="Telecom Paris" width="20" height="20"> **École Centrale de Lyon** (2021 – 2023)
+* <img src="Images/unicamp.jpg" alt="UNICAMP" width="20" height="20"> **Universidade Estadual de Campinas (UNICAMP)** (2019 – 2025)
