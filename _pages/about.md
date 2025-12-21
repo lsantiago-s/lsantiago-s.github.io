@@ -12,7 +12,7 @@ Hey! I'm Leo. I'm a Mechanical Engineer alumni from the State University of Camp
 
 During my time in France, I worked at Amazon and interned at BNP Paribas's Data & Analytics team. In my senior year, I received a São Paulo Research Foundation fellowship to conduct research at [CRUNCH Group](https://sites.brown.edu/crunch-group/) at Brown University.
 
-I possess a strong curiosity and a commitment to investigating novel scientific frontiers at the intersection of Engineering and Applied Mathematics. I have previously worked with Deep Learning and its capabilities in modeling physical systems using techniques such as Operator Learning and Optimal Transport. I have considerable experience developing Deep Learning frameworks and pipelines. More about my projects can be read in the Portfolio section.
+I possess a strong curiosity and a commitment to investigating novel scientific frontiers at the intersection of Engineering and Applied Mathematics. I have previously worked with Deep Learning and its capabilities in modeling physical systems using techniques such as Operator Learning and Optimal Transport. I have considerable experience developing Deep Learning frameworks and pipelines. More about my projects can be found in the Portfolio section.
 
 Contact
 ---
