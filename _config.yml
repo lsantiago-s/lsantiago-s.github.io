@@ -23,7 +23,7 @@ repository               : "lsantiago-s/lsantiago-s.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jng"
   name             : "Leonardo Santiago"
   pronouns         : # example: "she/her"  
   bio              : "Prospective PhD Student"
