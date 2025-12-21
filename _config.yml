@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Leonardo Santiago"
 title_separator          : "-"
 name                     : &name "Leonardo Santiago"
@@ -30,18 +30,18 @@ author:
   location         : "Rio de Janeiro, Brasil"
   employer         :
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lsantiag@.proton.me" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-7143-1145"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
