@@ -1,0 +1,8 @@
+---
+title: "DeepONet Surrogate Modeling for Continuum Mechanics in Unbounded Domains: Bypassing BEM Scalability via Operator Learning"
+collection: publications
+permalink: /publication/2025-11-deeponet-surrogate-apis
+excerpt: 'Leonardo Santiago, George Karniadakis, Josué Labaki\  [[Code]](https://github.com/lsants/DeepOperatorML)'
+date: 2025-11-25
+venue: 'XLVI Ibero-Latin American Congress on Computational Methods in Engineering'
+---
