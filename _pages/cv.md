@@ -19,8 +19,8 @@ Education
 Professional
 ======
 * <img src="/images/brown.png" alt="Brown" width="24" height="24"> **Brown University** (2024)
-  Research Assistant — Applied Mathematics
-  *Under the supervision of Prof. George Karniadakis at [CRUNCH Group](https://sites.brown.edu/crunch-group/)
+  Research Assistant — Applied Mathematics.
+  Under the supervision of Prof. George Karniadakis at [CRUNCH Group](https://sites.brown.edu/crunch-group/)
 * <img src="/images/bnp.png" alt="BNP Paribas" width="24" height="24"> **BNP Paribas** (2023)
   Data Science Intern
 * <img src="/images/amazon.png" alt="Amazon" width="24" height="24"> **Amazon** (2022)
