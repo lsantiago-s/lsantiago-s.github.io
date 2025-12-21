@@ -9,6 +9,6 @@ redirect_from:
 
 Education
 ======
-* ![Brown Logo](/images/Brown%20Logo_2016_2%20Color%20Process%20ST_1300.png) Visiting Student/Research Assistant - Applied Mathematics, Brown University, 2024 
-* ![Centrale Lyon Logo](/images/2024_LOGO-CENTRALE-H_ROUGE_RVB.png) M.S. in Engineering (Diplôme d'Ingénieur), École Centrale de Lyon, 2021-2023
-* ![Unicamp Logo](images/unicamp_PRE_VERM.jpg) B.S. in Mechanical Engineering (Honors), Universidade Estadual de Campinas, 2019-2025
+* <img src="Images/yale.png" alt="Yale" width="20" height="20"> **Yale University** (2023 - 2023)
+* <img src="Images/telecomparis.png" alt="Telecom Paris" width="20" height="20"> **Telecom Paris** (2021 – 2023)
+* <img src="Images/unicamp.png" alt="UNICAMP" width="20" height="20"> **State University of Campinas (UNICAMP)** (2018 – 2021)
