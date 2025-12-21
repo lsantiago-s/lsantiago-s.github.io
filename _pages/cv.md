@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 * <img src="/images/brown.png" alt="Brown" width="24" height="24"> **Brown University** (2024)
-  Visiting Student — Applied Mathematics  
+  Visiting Student 
 * <img src="/images/ecl.png" alt="ECL" width="24" height="24"> **École Centrale de Lyon** (2021 – 2023)
   M.Sc. in Engineering (Diplôme d'Ingénieur)
 * <img src="/images/unicamp.jpg" alt="UNICAMP" width="24" height="24"> **Universidade Estadual de Campinas (UNICAMP)** (2019 – 2025)
