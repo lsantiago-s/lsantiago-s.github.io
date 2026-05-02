@@ -20,6 +20,8 @@ Professional Experience
 ======
 * **MostQI** (Present)
   Machine Learning Engineer
+* **UNICAMP** (2025)
+  Research Assistant @ [SSI Lab](https://sites.google.com/unicamp.br/labaki) — School of Mechanical Engineering
 * **Brown University** (2024)
   Research Assistant @ [CRUNCH Group](https://sites.brown.edu/crunch-group/) — Division of Applied Mathematics
 * **BNP Paribas** (2023)
