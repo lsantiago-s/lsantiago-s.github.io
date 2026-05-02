@@ -9,19 +9,20 @@ redirect_from:
 
 Education
 ======
-* <img src="/images/brown.png" alt="Brown" width="40" height="40"> **Brown University** (2024)
-  Visiting Student 
-* <img src="/images/ecl.png" alt="ECL" width="40" height="40"> **École Centrale de Lyon** (2021 – 2023)
+* **Brown University** (2024)
+  Visiting Student
+* **École Centrale de Lyon** (2021–2023)
   M.Sc. in Engineering (Diplôme d'Ingénieur)
-* <img src="/images/unicamp.jpg" alt="UNICAMP" width="40" height="40"> **Universidade Estadual de Campinas (UNICAMP)** (2019 – 2025)
+* **Universidade Estadual de Campinas (UNICAMP)** (2019–2025)
   B.Sc. in Mechanical Engineering (Honors)
 
-Professional
+Professional Experience
 ======
-* <img src="/images/brown.png" alt="Brown" width="40" height="40"> **Brown University** (2024)
-  Research Assistant — Applied Mathematics.
-  Under the supervision of Prof. George Karniadakis at [CRUNCH Group](https://sites.brown.edu/crunch-group/)
-* <img src="/images/bnp.png" alt="BNP Paribas" width="40" height="40"> **BNP Paribas** (2023)
+* **MostQI** (Present)
+  Machine Learning Engineer
+* **Brown University** (2024)
+  Research Assistant @ [CRUNCH Group](https://sites.brown.edu/crunch-group/) — Division of Applied Mathematics
+* **BNP Paribas** (2023)
   Data Science Intern
-* <img src="/images/amazon.png" alt="Amazon" width="40" height="40"> **Amazon** (2022)
-  Summer intern
+* **Amazon** (2022)
+  Summer Intern
