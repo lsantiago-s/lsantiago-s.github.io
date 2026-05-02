@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I'm Leo. I hold a Diplôme d'Ingénieur (Master of Science) from École Centrale de Lyon. I'm also a Mechanical Engineer alumni from the State University of Campinas (UNICAMP) and currently work as a Machine Learning Engineer while doing research in my free time.
+Hey! I'm Leo. I hold a Diplôme d'Ingénieur (Master of Science) from École Centrale de Lyon. I'm also a Mechanical Engineer alumni from the State University of Campinas (UNICAMP) and currently work as a machine learning engineer while doing research in my free time.
 
 During my time in France, I worked at Amazon and interned at BNP Paribas's Data & Analytics team. In my senior year, I received a São Paulo Research Foundation fellowship to conduct research at [CRUNCH Group](https://sites.brown.edu/crunch-group/) at Brown University.
 
