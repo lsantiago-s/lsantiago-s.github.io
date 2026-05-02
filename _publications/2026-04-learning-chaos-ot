@@ -1,0 +1,9 @@
+---
+title: "Learning to Emulate Chaos: Adversarial Optimal Transport Regularization"
+collection: publications
+permalink: /publication/2026-04-learning-chaos-ot
+excerpt: 'Gabriel Melo*, Leonardo Santiago*, Peter Y. Lu (*Co-first authors)'
+date: 2026-04-20
+paperurl: 'https://arxiv.org/html/2604.21097v1
+tldr: 'Introduces an adversarial optimal transport regularization method to improve the stability and generalization of neural emulators when learning chaotic systems.'
+---
